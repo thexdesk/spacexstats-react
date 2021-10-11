@@ -15,7 +15,7 @@
   "dependencies": {
     "chart.js": "^2.9.3",
     "chartjs-plugin-zoom": "^0.7.5",
-    "date-fns": "^2.8.1",
+    "date-fns": "^2.24.0",
     "gatsby": "^2.18.6",
     "gatsby-background-image": "^0.9.11",
     "gatsby-image": "^2.2.34",
