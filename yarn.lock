@@ -728,6 +728,13 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
+"@babel/runtime@^7.8.4":
+  version "7.18.9"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.18.9.tgz#b4fcfce55db3d2e5e080d2490f608a3b9f407f4a"
+  integrity sha512-lkqXDcvlFT5rvEjiu6+QYO+1GXrEHRo2LOtS7E4GtX5ESIZOgepqsZBVIj6Pv+a6zqsya9VCgiK1KAK4BvJDAw==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/template@^7.7.4":
   version "7.7.4"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.7.4.tgz#428a7d9eecffe27deac0a98e23bf8e3675d2a77b"
@@ -5250,12 +5257,12 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gatsby-background-image@^0.9.11:
-  version "0.9.11"
-  resolved "https://registry.yarnpkg.com/gatsby-background-image/-/gatsby-background-image-0.9.11.tgz#7c57ebdb7dfc257d22f69368efbe5810b9374276"
-  integrity sha512-q1atugFGJW8Sd04pkT/hmpVJPEZbX//2NSiwbBwpZDk/vRh5iWFwZO0jCK/RCIKsLTx82Qn4cdem+kULp15cAw==
+gatsby-background-image@^0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/gatsby-background-image/-/gatsby-background-image-0.10.2.tgz#b220dcacb34636e26bb77e557b09c5a5bbac2c8b"
+  integrity sha512-yXw8dD2GbjclUxUPFiX3GaCUbvkreH/UGXxe4Atrl595WssA5HzNHCvSO/QMmfMIn+CkQVQH+YIrw7UUWg8/vQ==
   dependencies:
-    "@babel/runtime" "^7.7.4"
+    "@babel/runtime" "^7.8.4"
     filter-invalid-dom-props "^2.0.0"
     global "^4.4.0"
     short-uuid "^3.1.1"
@@ -10241,6 +10248,11 @@ regenerator-runtime@^0.13.2, regenerator-runtime@^0.13.3:
   version "0.13.3"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.3.tgz#7cf6a77d8f5c6f60eb73c5fc1955b2ceb01e6bf5"
   integrity sha512-naKIZz2GQ8JWh///G7L3X6LaQUAMp2lvb1rvwwsURe/VXwD6VMfr+/1NuNw3ag8v2kY1aQ/go5SNn79O9JU7yw==
+
+regenerator-runtime@^0.13.4:
+  version "0.13.9"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz#8925742a98ffd90814988d7566ad30ca3b263b52"
+  integrity sha512-p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA==
 
 regenerator-transform@^0.14.0:
   version "0.14.1"
